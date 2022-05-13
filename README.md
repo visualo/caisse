@@ -17,7 +17,7 @@ Une application pour les opérations sur une caisse de jour qui enregistre des e
 
 ## Installation 
 
-- Après télécharger ou bien cloner le projet taper la commande : composer update
+- Après avoir télécharger ou bien cloner le projet taper la commande : composer update
 - Créer le nom de la base de données dans le fichier .env
 - Taper la commande : npm install pour automatiser l'installation des dépendances
 - Taper la commande : npm run dev pour compiler tous les assets including la source map

@@ -1,8 +1,8 @@
-<p align="center"><a href="#dahsborad" target="_blank"><img src="/visualo/caisse/blob/main/dashboard.png" width="400"></a></p>
+<p align="center"><a href="#dahsborad" target="_blank"><img src="src="https://github.com/visualo/caisse/blob/main/public/images/dashboard.png?raw=true""></a></p>
 
-<p align="center"><a href="#dahsborad" target="_blank"><img src="/visualo/caisse/blob/main/caisse.png" width="400"></a></p>
+<p align="center"><a href="#caisse" target="_blank"><img src="src="https://github.com/visualo/caisse/blob/main/public/images/caisse.png?raw=true""></a></p>
 
-<p align="center"><a href="#dahsborad" target="_blank"><img src="/visualo/caisse/blob/main/type.png" width="400"></a></p>
+<p align="center"><a href="#type_operation" target="_blank"><img src="src="https://github.com/visualo/caisse/blob/main/public/images/type.png?raw=true""></a></p>
 
 
 ## About Caisse du jour
